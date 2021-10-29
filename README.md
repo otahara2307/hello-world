@@ -1,2 +1,2 @@
-# hello-world
+# tenpura
 Just another repository
